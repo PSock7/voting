@@ -3,7 +3,9 @@
 ## Project setup
 ```
 npm install
-```
+
+npm install material-design-icons-iconfont -D 
+npm install @fortawesome/fontawesome-free -D  
 
 ### Compiles and hot-reloads for development
 ```
